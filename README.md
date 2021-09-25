@@ -1,4 +1,5 @@
-Otus Lisp
-=========
+Otus Lisp home page
+===================
 
-[View site, hosted on Github Pages](http://yuriy-chumak.github.io/ol/)
+[otus-lisp.github.io](https://otus-lisp.github.io/)
+--------------------------------------------------------
