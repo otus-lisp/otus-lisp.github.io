@@ -1,12 +1,12 @@
 # Site settings
 title: Ol (Otus Lisp)
-email: yuriy.chumak@mail.com
-description: Otus Lisp project page
-baseurl: "/ol"
-url: "http://yuriy-chumak.github.io"
+email: otus.lisp@mail.com
+description: Otus Lisp home page
+baseurl: ""
+url: "http://otus-lisp.github.io"
 
 plugins:
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jemoji
 
 # Build settings
